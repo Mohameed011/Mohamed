@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohamed ait aamer</h1>
-<h3 align="center">Master student in computer network</h3>
+<h1 align="center">Hi 👋 Hi, I’m AIT AAMER Mohamed 24 years old, recently obtained a master degree in computer sciences and digital communication systems </h1>
+<h3 align="center">👀 I’m interested in Data analysis, AI & ML/DL, network and cloud computing </h3>
 
-- 🔭 I’m currently working on **Understanding Blockchain**
-
-- 🌱 I’m currently learning **IT technology**
+- 🌱 I’m currently learning AWS : AWS Developer associate training, AWS DynamoDB & Data nigration
+- Ask me about Python, ML/DL, NLP, LLM
 
 - 📫 How to reach me **aitamersimo9@gmail.com**
 
